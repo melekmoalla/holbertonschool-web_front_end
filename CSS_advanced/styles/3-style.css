@@ -15,10 +15,11 @@ a{
     color: var(--color-primary);
 }
 :root{
-    --color-primary:#030097;
+    --color-primary:#d73953;
     --color-black:#090909;
-    --color-white:#ffaa00;
+    --color-white:#ffffff;
     --color-light:#f3f3f3;
-    --color-light-grey:#353535;
+    --color-light-grey:#f3f3f3;
+    --color-dark-grey:#353535;
     --text-color:var(--color-black);
 }
