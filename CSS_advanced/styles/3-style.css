@@ -2,22 +2,22 @@ body{
     color: #161616;
 }
 a{
-    color: #161616;
+    color: #00ff11;
 }
 .visually-hidden{
     display: none;
 }
 .card-category{
-    color:#D73953;
+    color:var(--color-primary);
 }
 
 .section-tagline{
-    color: #D73953;
+    color: var(--color-primary);
 }
 :root{
-    --color-primary:#d73953;
+    --color-primary:#030097;
     --color-black:#090909;
-    --color-white:#ffffff;
+    --color-white:#ffaa00;
     --color-light:#f3f3f3;
     --color-light-grey:#353535;
     --text-color:var(--color-black);
