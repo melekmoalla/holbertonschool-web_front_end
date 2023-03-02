@@ -1,8 +1,8 @@
 body{
-    color: #161616;
+    color:var(--text-color);
 }
 a{
-    color: #00ff11;
+    color: var(--text-color);
 }
 .visually-hidden{
     display: none;
