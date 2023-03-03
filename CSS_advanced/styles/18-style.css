@@ -158,9 +158,6 @@ a:link {
     padding: 1em;
 }
 
-.nav-link {
-    padding: 0.5rem;
-}
 
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
