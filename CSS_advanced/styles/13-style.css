@@ -85,9 +85,7 @@ h6 {
     text-transform: uppercase
 }
 
-a:link {
+a[href]:visited:not([href="#"]) {
     color: aquamarine;
     font-style: italic;
-}
-
-
+  }
