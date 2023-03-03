@@ -116,7 +116,7 @@ a:link {
 }
 
 .section-footer {
-    padding: var(--ection-footer-padding);
+    padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
 }
 
