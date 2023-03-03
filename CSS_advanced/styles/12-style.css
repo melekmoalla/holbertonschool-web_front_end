@@ -64,7 +64,7 @@ a {
     --line-height-big: 1.8;
     --section-header-align: center;
     --section-tagline-transform: uppercase;
-    --section-title-color: black;
+    --section-title-color: var(--color-black);
     --section-title-margin: 0;
 
 
@@ -90,5 +90,5 @@ h6 {
 }
 
 .section-title-color {
-    color: black;
+    color: var(--color-black);
 }
