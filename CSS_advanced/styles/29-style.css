@@ -319,11 +319,12 @@ ul.row {
   bottom: 0;
   left: 0;
   width: 0;
-  height: 20%;
+  height: 0.2rem;
   background-color: var(--color-white);
 }
 
 .nav .nav-item:hover {
     background-color: var(--color-primary);
     width: 100%;
+    left: 0;
   }
