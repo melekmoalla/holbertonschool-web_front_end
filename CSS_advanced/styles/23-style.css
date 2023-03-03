@@ -209,10 +209,10 @@ ul.row {
 
 }
 .social-link{
-
+    display: block;
 }
 
 .social-link svg{
-    color:var(--text-color)
+    fill: var(--text-color);
 
 }
