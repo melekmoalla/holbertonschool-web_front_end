@@ -31,7 +31,7 @@ a {
     text-transform: var(--section-tagline-transform);
 }
 
-.section-title{
+.section-title {
     font-weight: var(--font-weight-bold);
     font-size: var(--font-size-xx-large);
     font-family: var(--font-family-title);
@@ -64,6 +64,8 @@ a {
     --line-height-big: 1.8;
     --section-header-align: center;
     --section-tagline-transform: uppercase;
+    --section-title-color: black;
+    --section-title-margin: 0;
 
 
 }
