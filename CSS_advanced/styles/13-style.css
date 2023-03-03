@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
@@ -85,7 +89,20 @@ h6 {
     text-transform: uppercase
 }
 
-a[href]:visited:not([href="#"]) {
+a:link {
     color: aquamarine;
     font-style: italic;
-  }
+}
+
+a:visited {
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+a:active {
+    background-color: var(--color-light-grey);
+}
