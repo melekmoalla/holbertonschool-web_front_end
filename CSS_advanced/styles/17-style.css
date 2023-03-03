@@ -118,5 +118,4 @@ a:link {
 .section-footer {
     padding: var(--section-body-footer);
     text-align: var(--section-footer-align);
-    padding: :var(--footer-padding);
 }
