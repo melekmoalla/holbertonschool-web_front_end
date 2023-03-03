@@ -93,3 +93,8 @@ a:visited {
     color: forestgreen;
     text-decoration-color: hotpink;
 }
+.visited_links{
+    text-decoration: underline;
+}
+
+hover state of link
