@@ -138,6 +138,14 @@ a:link {
     padding:0 ;
     list-style: none;
     list-style-type: none;
-
+    text-align: center;
+    font-size:var(--nav-item-font-size);
+}
+.nav-item{
+    font-family:var(--nav-item-font-family);
+    font-weight:var(--nav-item-font-weight);
+    font-size:var(--nav-item-font-size);
+    letter-spacing:var(--nav-item-letter-spacing);
+    
 }
 
