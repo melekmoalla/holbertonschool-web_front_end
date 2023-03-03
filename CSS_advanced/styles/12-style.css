@@ -25,11 +25,16 @@ a {
 }
 
 .section-tagline {
+    color: var(--text-color);
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
     text-transform: var(--section-tagline-transform);
-    font-size: var(--font-size-xx-large);
+}
+
+.section-title{
     font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-xx-large);
+    font-family: var(--font-family-title);
     color: var(--section-title-color);
     margin: var(--section-title-margin);
 }
