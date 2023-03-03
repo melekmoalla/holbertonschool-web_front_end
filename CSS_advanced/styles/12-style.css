@@ -84,11 +84,3 @@ h6 {
 .section-tagline-transform {
     text-transform: uppercase
 }
-
-.section-title-margin {
-    margin: 0;
-}
-
-.section-title-color {
-    color: var(--color-black);
-}
