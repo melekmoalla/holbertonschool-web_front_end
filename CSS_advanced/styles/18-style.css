@@ -151,12 +151,13 @@ a:link {
     letter-spacing: var(--nav-item-letter-spacing);
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
-    padding: 0.5rem;
+    
 }
 
 .nav .nav-link {
     display: block;
     padding: 1em;
+    padding: 0.5rem;
 }
 
 
