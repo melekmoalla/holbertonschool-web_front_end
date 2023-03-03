@@ -157,6 +157,3 @@ a:link {
     display: block;
     padding: 1em;
 }
-.nav .nav-link:hover {
-    padding: var(--nav-item-link-hover);
-}
