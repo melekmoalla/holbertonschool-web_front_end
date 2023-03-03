@@ -110,3 +110,11 @@ a:link {
     color: aquamarine;
     font-style: italic;
 }
+
+.section-body{
+    padding:var(--section-body-padding)
+}
+
+.section-footer{
+    padding:var(--section-body-padding)
+}
