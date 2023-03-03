@@ -418,10 +418,12 @@ ul.row {
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
-.card-image:hover {
-    transform: scale(1.2);
-}
+
 
 .card-outer:hover {
     transform: scale(0.95);
 }
+
+.card-work:hover .card-image {
+    transform: scale(1.2);
+  }
