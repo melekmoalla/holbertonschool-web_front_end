@@ -51,8 +51,8 @@ a {
 
 .container {
     width: 960px;
-    margin-right: 1em;
-    margin-right: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 
 :root {
