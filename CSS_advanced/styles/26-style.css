@@ -255,7 +255,7 @@ ul.row {
     text-decoration: var(--button-text-decoration);
 }
 
-.button:hover{
+.button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background: var(--button-hover-background);
@@ -265,14 +265,14 @@ ul.row {
     text-align: center;
 }
 
-.card-testimonial .card-avatar{
+.card-testimonial .card-avatar cite {
     border-radius: 50%;
     width: 10rem;
     height: 10rem;
 }
 
-.card-testimonial .card-quote{
+.card-testimonial .card-quote cite{
     display: block;
     padding: 1rem;
-    color:var(--color-primary)
+    color: var(--color-primary)
 }
