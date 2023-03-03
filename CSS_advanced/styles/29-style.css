@@ -312,7 +312,7 @@ ul.row {
     left: var(--header-logo-link-left);
   }
 
-.nav-link:before {
+.nav .nav-link::before {
   content: "";
   position: absolute;
   background-color: var(--color-white);
@@ -320,7 +320,7 @@ ul.row {
   height: 20%
 }
 
-.nav-item:hover .nav-link:before {
+.nav .nav-item:hover {
     background-color: var(--color-primary);
     width: 100%;
   }
