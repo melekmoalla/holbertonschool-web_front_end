@@ -13,7 +13,7 @@ body {
 
 a {
     color: var(--text-color);
-    text-decoration: none ;
+    text-decoration: none;
 }
 
 .visually-hidden {
@@ -26,8 +26,9 @@ a {
 
 .section-tagline {
     color: var(--color-primary);
-    font-family:  var(--font-family-title);
+    font-family: var(--font-family-title);
     font-weight: var(--font-family-bold);
+    text-transform: var(--section-tagline-transform)
 }
 
 .section-header {
@@ -50,11 +51,11 @@ a {
     --font-size-xx-large: 4.8rem;
     --font-weight-regular: 400;
     --font-weight-bold: 700;
-    --line-height-small:1.2;
-    --line-height-base:1.5;
-    --line-height-big:1.8;
-    --section-header-align:center;
-    --section-tagline-transform:uppercase;
+    --line-height-small: 1.2;
+    --line-height-base: 1.5;
+    --line-height-big: 1.8;
+    --section-header-align: center;
+    --section-tagline-transform: uppercase;
 
 
 }
@@ -70,6 +71,6 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-.section-tagline-transform{
-    text-transform: uppercase;
+.section-tagline-transform {
+    text-transform: uppercase
 }
