@@ -157,3 +157,11 @@ a:link {
     display: block;
     padding: 1em;
 }
+
+.nav-link {
+    padding: 0.5rem;
+}
+
+.nav-link:hover {
+    color: var(--nav-item-link-hover);
+}
