@@ -142,7 +142,6 @@ a:link {
     list-style-type: none;
     text-align: center;
     font-size: var(--nav-item-font-size);
-    padding: 0 var(--spacing-large);
 }
 
 .nav .nav-item {
@@ -161,7 +160,6 @@ a:link {
 
 .nav-link {
     padding: 0.5rem;
-    padding: 0 var(--spacing-large);
 }
 
 .nav .nav-link:hover {
