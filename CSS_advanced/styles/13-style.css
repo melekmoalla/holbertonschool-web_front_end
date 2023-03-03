@@ -94,7 +94,5 @@ a:visited {
     text-decoration-color: hotpink;
 }
 .visited_links{
-    text-decoration: underline;
+    font-style: italic;
 }
-
-hover state of link
