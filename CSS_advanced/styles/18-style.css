@@ -89,6 +89,13 @@ a {
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
+    --nav-item-font-family:var(--font-family-title);
+    --nav-item-font-weight:var(--font-weight-bold);
+    --nav-item-font-size:var(--font-size-medium);
+    --nav-item-letter-spacing
+    --nav-item-display=var(--inline-block);
+    --nav-item-margin=
+    --nav-item-link-hover=var(--color-primary);
 }
 
 
@@ -126,3 +133,11 @@ a:link {
 .navbar-menu{
     float: right;
 }
+.nav{
+    margin: 0;
+    padding:0 ;
+    list-style: none;
+    list-style-type: none;
+
+}
+
