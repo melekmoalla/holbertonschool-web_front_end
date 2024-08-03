@@ -1,0 +1,12 @@
+@mixin reset-list($property1 ,$property2) {
+    margin-left: $property1;
+    margin-right: $property2; 
+}
+
+body {
+    @include reset-list(10px, 10px);
+}
+
+div {
+    @include reset-list(15px, 15px);
+ }
