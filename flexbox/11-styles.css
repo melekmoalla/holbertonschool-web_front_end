@@ -532,10 +532,12 @@
 /* Section HERO (article)
     ============================= */
 
-    .hero-article{
+    .hero-article {
         background-size: 150rem 100rem;
         background-position: 50% 0;
+        position: relative;
     }
+    
     .hero-article::before {
         content: '';
         background: rgba(0, 0, 0, 0.8);
@@ -546,7 +548,7 @@
         bottom: 0;
         z-index: 0;
     }
-
+    
     .hero-article .section-inner {
         text-align: center;
         align-items: center;
@@ -563,3 +565,5 @@
         padding: 7rem 0 0;
         z-index: 2;
     }
+
+    
