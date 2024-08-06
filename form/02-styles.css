@@ -658,9 +658,7 @@
     .post-comments .section-title {
         font-variant: small-caps;
     }
-    
-    /* Basic form
-        ============================= */
+
     form {
         display: flex;
         flex-direction: column;
@@ -668,8 +666,6 @@
         margin: 0;
     }
     
-/* Fieldset styling
-    ============================= */
     fieldset {
         display: flex;
         flex-direction: column;
