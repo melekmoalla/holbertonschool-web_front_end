@@ -729,7 +729,7 @@
 /* Form field
 ============================= */
 .form-field-container{
-    position:relative;
+    position: relative;
 }
 
 .form-field-icon{
@@ -750,7 +750,6 @@
     overflow: hidden;
 }
 
-/* Styles for .form-help when .form-group has :focus-within state */
 .form-group:focus-within .form-help {
     max-height: 20rem;
     margin: .4rem 0 0;
