@@ -553,11 +553,6 @@
         text-align: center;
         align-items: center;
         min-height: 40vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        position: relative;
-        z-index: 2;
     }
     
     .hero-article .section-body {
