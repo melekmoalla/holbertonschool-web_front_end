@@ -810,6 +810,3 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
   textarea:valid:not(:placeholder-shown) {
     border: 0.1rem solid var(--valid-color);
   }
-
-
-
