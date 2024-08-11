@@ -1,5 +1,5 @@
 $sort-order: a b c d e f g h i j k l m n o p 
-			q r s t u v w x y z !default;
+			q r s t u v w x y z ;
 
 @function compare($string-a, $string-b, $sort-order) { 
     $string-a: to-lower-case($string-a + unquote("")); 
