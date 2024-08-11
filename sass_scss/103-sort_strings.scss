@@ -45,20 +45,6 @@ $sort-order: a b c d e f g h i j k l m n o p
     @return $list; 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $list_to_sort: john anna zoe kim felicia carrie;
 $sort: sort($list_to_sort, $sort-order); 
 @debug $sort;
