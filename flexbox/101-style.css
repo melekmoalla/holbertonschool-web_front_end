@@ -1,0 +1,35 @@
+.container{
+    color: white;
+    display:flex;
+    justify-content: center;
+    gap: 1%;
+}
+.box{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 30px;
+    
+}
+
+.box1 {
+    background-color: greenyellow;
+}
+
+.box2 {
+    background-color: #3357FF;
+}
+
+.box3 {
+    background-color: blue;
+}
+
+.box4 {
+    background-color: darkorchid;
+}
+
+.box5 {
+    background-color: #FF9633;
+}
