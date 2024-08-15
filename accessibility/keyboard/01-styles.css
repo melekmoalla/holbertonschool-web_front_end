@@ -691,7 +691,7 @@
     }
   
     .card-work .card-title {
-      opacity: 1;
+      opacity: 0;
     }
   
     .card-work .card-title a {
@@ -699,6 +699,9 @@
       padding: 2rem 1rem 0 1rem;
     }
   
+    .card-work:hover .card-inner {
+      background-color: transparent;
+    }
   
     .card-work:hover .card-image {
       transform: none;
