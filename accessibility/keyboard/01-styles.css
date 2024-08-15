@@ -680,6 +680,8 @@
         background-color: rgba(0, 0, 0, 0.7);
     }
 
+    
+
   
   @media only screen and (max-width: 767px) {
   
@@ -697,9 +699,6 @@
       padding: 2rem 1rem 0 1rem;
     }
   
-    .card-work:hover .card-inner {
-      background-color: transparent;
-    }
   
     .card-work:hover .card-image {
       transform: none;
