@@ -680,9 +680,6 @@
         background-color: rgba(0, 0, 0, 0.7);
     }
 
-    .card-work .card-title a:focus {
-        outline: 2px solid blue;
-    }
     
   
   .card-work:hover .card-title {
