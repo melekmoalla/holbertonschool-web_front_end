@@ -189,12 +189,13 @@
     clip: rect(1px, 1px, 1px, 1px);
     white-space: nowrap;
   }
-
-  .off-screen {
-    left: -100vw;
-    position: absolute;
+  
+    .off-screen {
+        left: -100vw;
+        position: absolute;
     }
 
+    /* Skip-link class */
     .skip-link {
         background: var(--color-black);
         color: var(--color-white);
@@ -212,7 +213,8 @@
         opacity: 1;
         transform: translateY(0);
     }
-  
+
+
   /*** 2. LAYOUT ***/
   
   /* Layout
